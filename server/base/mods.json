@@ -1,0 +1,17 @@
+{
+  "minecraft": {
+    "version": "1.11.2"
+  },
+  "files": [
+    {
+      "fileID": 2346436,
+      "projectID": 223797,
+      "name": "helpfixer"
+    },
+    {
+      "fileID": 2421243,
+      "projectID": 69118,
+      "name": "morpheus"
+    }
+  ]
+}

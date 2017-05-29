@@ -1,0 +1,18 @@
+{
+  "minecraft": {
+    "version": "1.11.2"
+  },
+  "files": [
+    {
+      "fileID": 2383115,
+      "projectID": 32274,
+      "name": "Journeymap"
+    }
+  ],
+  "thirdParty": [
+    {
+      "url": "http://play.nincraft.com:8080/job/Nins%20Mod%20Lister/28/artifact/build/libs/NinsModLister-1.9.4-4.0+28.jar",
+      "name": "Nin's Mod Lister"
+    }
+  ]
+}

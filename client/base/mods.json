@@ -1,0 +1,112 @@
+{
+  "minecraft": {
+    "version": "1.11.2"
+  },
+  "files": [
+    {
+      "fileID": 2371205,
+      "projectID": 248787,
+      "name": "appleskin"
+    },
+    {
+      "fileID": 2409239,
+      "projectID": 265692,
+      "name": "augmented-interactions"
+    },
+    {
+      "fileID": 2417007,
+      "projectID": 230751,
+      "name": "baubleshud"
+    },
+    {
+      "fileID": 2416476,
+      "projectID": 228529,
+      "name": "better-foliage"
+    },
+    {
+      "fileID": 2418169,
+      "projectID": 224223,
+      "name": "better-title-screen"
+    },
+    {
+      "fileID": 2345800,
+      "projectID": 251407,
+      "name": "client-tweaks"
+    },
+    {
+      "fileID": 2350834,
+      "projectID": 225928,
+      "name": "custom-backgrounds"
+    },
+    {
+      "fileID": 2403650,
+      "projectID": 226406,
+      "name": "custom-main-menu"
+    },
+    {
+      "fileID": 2376984,
+      "projectID": 232131,
+      "name": "default-options"
+    },
+    {
+      "fileID": 2346985,
+      "projectID": 231275,
+      "name": "ding"
+    },
+    {
+      "fileID": 2366274,
+      "projectID": 227874,
+      "name": "dynamic-lights"
+    },
+    {
+      "fileID": 2426615,
+      "projectID": 238891,
+      "name": "dynamic-surroundings"
+    },
+    {
+      "fileID": 2413555,
+      "projectID": 255389,
+      "name": "enhancedvisuals"
+    },
+    {
+      "fileID": 2368927,
+      "projectID": 228810,
+      "name": "launchgui"
+    },
+    {
+      "fileID": 2355691,
+      "projectID": 228513,
+      "name": "loading-profiler"
+    },
+    {
+      "fileID": 2418884,
+      "projectID": 231347,
+      "name": "mo-bends"
+    },
+    {
+      "fileID": 2408205,
+      "projectID": 238747,
+      "name": "mod-name-tooltip"
+    },
+    {
+      "fileID": 2378343,
+      "projectID": 248451,
+      "name": "real-first-person-render"
+    },
+    {
+      "fileID": 2356332,
+      "projectID": 222789,
+      "name": "sound-filters"
+    },
+    {
+      "fileID": 2397047,
+      "projectID": 236078,
+      "name": "stellar-sky"
+    },
+    {
+      "fileID": 2403754,
+      "projectID": 251759,
+      "name": "thirdperson-everything"
+    }
+  ]
+}

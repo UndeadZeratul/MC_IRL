@@ -1,0 +1,386 @@
+{
+  "minecraft": {
+    "version": "1.11.2",
+    "modLoaders": [
+      {
+        "id": "forge-13.20.0.2308",
+        "primary": true,
+        "downloadInstaller": true,
+        "downloadUniversal": true,
+        "renameUniversal": "modpack.jar",
+        "name": "forge",
+        "folder": "common/base/loaders"
+      }
+    ]
+  },
+  "files": [
+    {
+      "fileID": 2426509,
+      "projectID": 261199,
+      "name": "animania"
+    },
+    {
+      "fileID": 2391971,
+      "projectID": 224472,
+      "name": "applecore"
+    },
+    {
+      "fileID": 2412506,
+      "projectID": 223735,
+      "name": "aroma1997core"
+    },
+    {
+      "fileID": 2412514,
+      "projectID": 225658,
+      "name": "aromabackup"
+    },
+    {
+      "fileID": 2416650,
+      "projectID": 227875,
+      "name": "atomicstrykers-infernal-mobs"
+    },
+    {
+      "fileID": 2363585,
+      "projectID": 250363,
+      "name": "autoreglib"
+    },
+    {
+      "fileID": 2424450,
+      "projectID": 227083,
+      "name": "baubles"
+    },
+    {
+      "fileID": 2389933,
+      "projectID": 223275,
+      "name": "betterbedrockgen"
+    },
+    {
+      "fileID": 2426406,
+      "projectID": 220318,
+      "name": "biomes-o-plenty"
+    },
+    {
+      "fileID": 2358753,
+      "projectID": 226321,
+      "name": "bloodmoon"
+    },
+    {
+      "fileID": 2411460,
+      "projectID": 225643,
+      "name": "botania"
+    },
+    {
+      "fileID": 2394246,
+      "projectID": 224713,
+      "name": "bow-infinity-fix"
+    },
+    {
+      "fileID": 2395425,
+      "projectID": 242617,
+      "name": "chameleon-creepers"
+    },
+    {
+      "fileID": 2426161,
+      "projectID": 264111,
+      "name": "charcoal-pit"
+    },
+    {
+      "fileID": 2373212,
+      "projectID": 76544,
+      "name": "climate-control-geographicraft"
+    },
+    {
+      "fileID": 2423624,
+      "projectID": 253729,
+      "name": "compatlayer"
+    },
+    {
+      "fileID": 2403181,
+      "projectID": 231484,
+      "name": "cooking-for-blockheads"
+    },
+    {
+      "fileID": 2411015,
+      "projectID": 237749,
+      "name": "coroutil"
+    },
+    {
+      "fileID": 2417005,
+      "projectID": 233071,
+      "name": "crafting-tweaks"
+    },
+    {
+      "fileID": 2420673,
+      "projectID": 239197,
+      "name": "crafttweaker"
+    },
+    {
+      "fileID": 2386033,
+      "projectID": 241140,
+      "name": "default-world-generator-port"
+    },
+    {
+      "fileID": 2422718,
+      "projectID": 224942,
+      "name": "dense-ores"
+    },
+    {
+      "fileID": 2377913,
+      "projectID": 229708,
+      "name": "farseek"
+    },
+    {
+      "fileID": 2415816,
+      "projectID": 256909,
+      "name": "felling"
+    },
+    {
+      "fileID": 2313999,
+      "projectID": 228297,
+      "name": "Foundry",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2366880,
+      "projectID": 238551,
+      "name": "gravestone-mod"
+    },
+    {
+      "fileID": 2367464,
+      "projectID": 238928,
+      "name": "hammerz"
+    },
+    {
+      "fileID": 2400826,
+      "projectID": 225957,
+      "name": "hardcore-darkness"
+    },
+    {
+      "fileID": 2381469,
+      "projectID": 72210,
+      "name": "hopper-ducts"
+    },
+    {
+      "fileID": 2378390,
+      "projectID": 224473,
+      "name": "hunger-in-peace"
+    },
+    {
+      "fileID": 2417329,
+      "projectID": 235261,
+      "name": "just-a-few-fish"
+    },
+    {
+      "fileID": 2422603,
+      "projectID": 267939,
+      "name": "just-enough-harvestcraft"
+    },
+    {
+      "fileID": 2425851,
+      "projectID": 238222,
+      "name": "just-enough-items-jei"
+    },
+    {
+      "fileID": 2423288,
+      "projectID": 240630,
+      "name": "just-enough-resources-jer"
+    },
+    {
+      "fileID": 2417835,
+      "projectID": 253021,
+      "name": "literal-ascension"
+    },
+    {
+      "fileID": 2418098,
+      "projectID": 243298,
+      "name": "llibrary"
+    },
+    {
+      "fileID": 2410839,
+      "projectID": 233255,
+      "name": "login-shield"
+    },
+    {
+      "fileID": 2424643,
+      "projectID": 261339,
+      "name": "loottabletweaker"
+    },
+    {
+      "fileID": 2388577,
+      "projectID": 60089,
+      "name": "mouse-tweaks"
+    },
+    {
+      "fileID": 2425442,
+      "projectID": 244940,
+      "name": "mputils"
+    },
+    {
+      "fileID": 2414484,
+      "projectID": 245889,
+      "name": "mputils-basic-tools"
+    },
+    {
+      "fileID": 2425739,
+      "projectID": 253211,
+      "name": "mtlib"
+    },
+    {
+      "fileID": 2407547,
+      "projectID": 227887,
+      "name": "multi-mine"
+    },
+    {
+      "fileID": 2345495,
+      "projectID": 241160,
+      "name": "netherportalfix"
+    },
+    {
+      "fileID": 2362274,
+      "projectID": 226779,
+      "name": "no-mob-spawning-on-trees"
+    },
+    {
+      "fileID": 2410937,
+      "projectID": 221857,
+      "name": "pams-harvestcraft"
+    },
+    {
+      "fileID": 2417214,
+      "projectID": 242872,
+      "name": "potion-core"
+    },
+    {
+      "fileID": 2394022,
+      "projectID": 74246,
+      "name": "project-74246"
+    },
+    {
+      "fileID": 2417209,
+      "projectID": 264756,
+      "name": "quality-tools"
+    },
+    {
+      "fileID": 2421536,
+      "projectID": 243121,
+      "name": "quark"
+    },
+    {
+      "fileID": 2393582,
+      "projectID": 225839,
+      "name": "quick-leaf-decay"
+    },
+    {
+      "fileID": 2316525,
+      "projectID": 237989,
+      "name": "Realistic Terrain Generation",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2405497,
+      "projectID": 245620,
+      "name": "realistic-item-drops"
+    },
+    {
+      "fileID": 2373945,
+      "projectID": 235729,
+      "name": "realistic-torches"
+    },
+    {
+      "fileID": 2383526,
+      "projectID": 67508,
+      "name": "redstone-paste"
+    },
+    {
+      "fileID": 2423993,
+      "projectID": 256141,
+      "name": "rustic"
+    },
+    {
+      "fileID": 2313198,
+      "projectID": 234840,
+      "name": "saltymod"
+    },
+    {
+      "fileID": 2413458,
+      "projectID": 248453,
+      "name": "shadowfacts-forgelin"
+    },
+    {
+      "fileID": 2345671,
+      "projectID": 240783,
+      "name": "simpleharvest"
+    },
+    {
+      "fileID": 2312842,
+      "projectID": 225606,
+      "name": "Stackie",
+      "skipDownload": true
+    },
+    {
+      "fileID": 2389068,
+      "projectID": 227886,
+      "name": "stalker-creepers"
+    },
+    {
+      "fileID": 2397036,
+      "projectID": 244147,
+      "name": "stellar-api"
+    },
+    {
+      "fileID": 2377914,
+      "projectID": 229769,
+      "name": "streams"
+    },
+    {
+      "fileID": 2386271,
+      "projectID": 241113,
+      "name": "Substratum"
+    },
+    {
+      "fileID": 2426403,
+      "projectID": 267633,
+      "name": "tan-campfire-spit"
+    },
+    {
+      "fileID": 2386935,
+      "projectID": 220811,
+      "name": "the-spice-of-life"
+    },
+    {
+      "fileID": 2413885,
+      "projectID": 260262,
+      "name": "tool-belt"
+    },
+    {
+      "fileID": 2383472,
+      "projectID": 246391,
+      "name": "tough-as-nails"
+    },
+    {
+      "fileID": 2421124,
+      "projectID": 267769,
+      "name": "traverse"
+    },
+    {
+      "fileID": 2411371,
+      "projectID": 244258,
+      "name": "unidict"
+    },
+    {
+      "fileID": 2411369,
+      "projectID": 253043,
+      "name": "wanionlib"
+    },
+    {
+      "fileID": 2424116,
+      "projectID": 257572,
+      "name": "wearable-backpacks"
+    },
+    {
+      "fileID": 2408158,
+      "projectID": 237746,
+      "name": "weather-storms-tornadoes"
+    }
+  ]
+}

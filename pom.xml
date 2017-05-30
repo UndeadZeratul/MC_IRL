@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.nincraft</groupId>
+    <groupId>com.undeadzeratul</groupId>
     <artifactId>MC_IRL</artifactId>
     <version>0.0.1</version>
-    <name>Minecraft - Inspired by Real Life</name>
+    <name>Minecraft: Inspired by Real Life</name>
     <url>http://github.com/UndeadZeratul/MC_IRL</url>
     <packaging>pom</packaging>
     <properties>
@@ -11,7 +11,7 @@
         <build.number>SNAPSHOT</build.number>
 		<launcher.name.dev/>
 		<launcher.title.dev/>
-        <modpack.template.version>0.1</modpack.template.version>
+		<modpack.template.version>0.1</modpack.template.version>
 		<maven-assembly-plugin.version>2.6</maven-assembly-plugin.version>
     </properties>
     <build>
